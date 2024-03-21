@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="da3e7006-4034-4b15-9112-70dbf5fbeabb" name="dsail6">
+        <fileTransfer rootFolder="/home/yuxin/Python-Learning/" accessType="SFTP" host="dsail6" port="22" sshConfigId="321140ce-9d7d-4f10-859c-580f3c775c88" sshConfig="yuxin@dsail6:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
